@@ -1,4 +1,4 @@
-# Hackintosh
+# Hackintosh AMD & JGINYUE, ZEN4
 These are Hackintosh config files record, the platform is listed as follows. \
 **CPU**: AMD R7 7700 \
 **Motherboard**: JGINYUE B650i \
